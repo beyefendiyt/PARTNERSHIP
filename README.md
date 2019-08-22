@@ -1,2 +1,2 @@
 # partnership
-Ücretsiz sunucu yada işbirliği videoları için.
+Ücretsiz sunucu yada işbirliği videoları için. test
